@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "upstream": {
+    "project": "Sun Haven unofficial Korean patch",
+    "version": "1.2",
+    "published": "2026-07-23",
+    "mode": "basic_without_additional_localization"
+  },
+  "mac_port": {
+    "status": "validated",
+    "installation": "PASS",
+    "manual_smoke_test": "PASS",
+    "additional_localization_supported": false
+  },
+  "scope": {
+    "windows_bundles_copied_directly_to_mac": false,
+    "future_game_updates_require_revalidation": true,
+    "future_upstream_patch_updates_require_revalidation": true
+  }
+}
